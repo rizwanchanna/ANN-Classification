@@ -11,9 +11,7 @@ This project focuses on building an Artificial Neural Network (ANN) to predict c
 
 # Getting Started
 Clone the Repository
-
-bash
-git clone https://github.com/yourusername/annclassification.git
+git clone https://github.com/rizwanchanna/ANN-Classification
 cd annclassification/annclassification
 
 Install Dependencies
